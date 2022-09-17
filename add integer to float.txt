@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+
+int main()
+{
+
+int n;
+
+float r;
+
+scanf("%d %f",&n,&r);
+
+printf("%.2f",n+r);
+
+}
